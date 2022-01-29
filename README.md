@@ -9,31 +9,32 @@ References for deep learning models implemented in TensorFlow or PyTorch. The in
 
 - **Perceptron**<br/>
   [
-  [TensorFlow 1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/perceptron.ipynb) | 
-  [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/perceptron.ipynb)
+  [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/perceptron.ipynb) | 
+  [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/perceptron.ipynb) |
+  [Wiki](https://en.wikipedia.org/wiki/Perceptron)
   ]
 
 - **Logitic Regression**<br/>
   [
-  [TensorFlow 1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/logistic-regression.ipynb) |
+  [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/logistic-regression.ipynb) |
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/logistic-regression.ipynb)
   ]
 
 - **Vanilla MLP (Multi-Layer Perceptrons)**<br/>
   [
-  [TensorFlow 1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-basic.ipynb) |
+  [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-basic.ipynb) |
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-basic.ipynb)
   ]
   
 - **MLP with dropout**<br/>
   [
-  [TensorFlow 1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-dropout.ipynb) |
+  [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-dropout.ipynb) |
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-dropout.ipynb)
   ]
   
 - **MLP with batch normalisaiton**<br/>
   [
-  [TensorFlow 1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb) |
+  [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb) |
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-batchnorm.ipynb)
   ]
   

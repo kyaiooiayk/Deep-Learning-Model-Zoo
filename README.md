@@ -1,6 +1,6 @@
 # Deep-Learning-Model-Zoo
 References for deep learning models implemented in TensorFlow or PyTorch. The inspiration for this repository was taken from this [repository](https://github.com/rasbt/deeplearning-models). This repository will try to build on this and provide a concise extra references following a common template. For each **deep learning model** the following reference template is provided":
-  - TensorFlow 1/2 implementation. See [here](https://www.tensorflow.org/guide/migrate) how you can migrate from TF1 to TF2
+  - TensorFlow 1/2 implementation. See [this](https://www.tensorflow.org/guide/migrate) taken directly from the tensorflow website inhow you can migrate from TF1 to TF2. Alternatively you can use this nice [app](http://tf2up.ml/)
   - PyTorch implementation
   - Original paper
   - Any other useful references

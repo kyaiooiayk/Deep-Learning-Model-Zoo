@@ -32,7 +32,7 @@ References for deep learning models implemented in TensorFlow or PyTorch. The in
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-dropout.ipynb)
   ]
   
-- **MLP with batch normalisaiton**<br/>
+- **MLP with batch normalisation**<br/>
   [
   [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb) |
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-batchnorm.ipynb)

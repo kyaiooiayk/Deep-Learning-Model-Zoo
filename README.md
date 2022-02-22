@@ -9,6 +9,20 @@ References for deep learning models implemented in TensorFlow or PyTorch. The in
 - [How to migrate from TensorFlow 1.x to TensorFlow 2](https://www.tensorflow.org/guide/migrate)
 - [Tensorflow 1.x to Tensorflow 2.0 — Coding changes](https://medium.com/red-buffer/tensorflow-1-0-to-tensorflow-2-0-coding-changes-636b49a604b)
 - [Series of questions on TF vs. PT](https://cementanswers.com/is-tensorflow-2-backward-compatible/)
+- [How to resolve: AttributeError: module ‘tensorflow’ has no attribute ‘placeholder’ ](https://gimoonnam.github.io/machinelearning/tensorFlow_1/). 
+- Quick answer #1:
+```
+# Tensorflow 1.x
+self._states = tf.placeholder(shape=[None, self._num_states], dtype=tf.float32)
+# Tensorflow 2.x
+self._states = tf.Variable(tf.ones(shape=[None, self._num_states]), dtype=tf.float32)
+```
+- Quick answer #2:
+```
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
+x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
+```
 
 ## Traditional ML models
 

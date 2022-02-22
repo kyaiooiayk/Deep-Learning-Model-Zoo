@@ -5,6 +5,11 @@ References for deep learning models implemented in TensorFlow or PyTorch. The in
   - Original paper
   - Any other useful references
 
+## TF1 vs. TF2
+- [How to migrate from TensorFlow 1.x to TensorFlow 2](https://www.tensorflow.org/guide/migrate)
+- [Tensorflow 1.x to Tensorflow 2.0 — Coding changes](https://medium.com/red-buffer/tensorflow-1-0-to-tensorflow-2-0-coding-changes-636b49a604b)
+- [Series of questions on TF vs. PT](https://cementanswers.com/is-tensorflow-2-backward-compatible/)
+
 ## Traditional ML models
 
 - **Perceptron**<br/>

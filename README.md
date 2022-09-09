@@ -57,7 +57,13 @@ x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-batchnorm.ipynb)
   ]
   
-  
+## Everything else
+
+- **Cycle GAN**
+[
+[PyTorch](https://github.com/theopfr/cycle-gan-pytorch)
+]
+
 ## Template
 - **Template**<br/>
   [

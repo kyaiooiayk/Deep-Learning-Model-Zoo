@@ -61,7 +61,7 @@ x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
 
 - **Cycle GAN**
 [
-[PyTorch](https://github.com/theopfr/cycle-gan-pytorch)
+[PyTorch](https://github.com/theopfr/cycle-gan-pytorch) | [Paper](https://arxiv.org/abs/1703.10593)
 ]
 
 ## Template

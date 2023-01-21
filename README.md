@@ -4,6 +4,7 @@ References for deep learning models implemented in TensorFlow or PyTorch. The in
   - PyTorch implementation
   - Original paper
   - Any other useful references
+***
 
 ## TF1 vs. TF2
 - [How to migrate from TensorFlow 1.x to TensorFlow 2](https://www.tensorflow.org/guide/migrate)
@@ -23,6 +24,7 @@ import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
 ```
+***
 
 ## Traditional ML models
 
@@ -56,7 +58,8 @@ x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
   [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb) |
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-batchnorm.ipynb)
   ]
-  
+***
+
 ## Everything else
 
 - **Cycle GAN**
@@ -71,3 +74,5 @@ x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
   TensorFlow2 |
   PyTorch
   ]
+  
+***

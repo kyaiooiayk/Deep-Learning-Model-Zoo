@@ -67,6 +67,7 @@ x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
 ## Template
 - **Template**<br/>
   [
-  [TensorFlow 1]() |
-  [PyTorch]()
+  TensorFlow1 |
+  TensorFlow2 |
+  PyTorch
   ]

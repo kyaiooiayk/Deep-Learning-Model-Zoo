@@ -26,7 +26,7 @@ x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
 ```
 ***
 
-## Traditional ML models
+## Models
 
 - **Perceptron**<br/>
   [
@@ -60,9 +60,6 @@ x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
   [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb) |
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-batchnorm.ipynb)
   ]
-***
-
-## Everything else
 
 - **Cycle GAN**
 [

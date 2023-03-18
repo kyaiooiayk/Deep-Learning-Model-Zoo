@@ -32,7 +32,9 @@ x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
   [
   [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/basic-ml/perceptron.ipynb) | 
   [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/basic-ml/perceptron.ipynb) |
-  [Wiki](https://en.wikipedia.org/wiki/Perceptron)
+  [Wiki](https://en.wikipedia.org/wiki/Perceptron) |
+  [Sldies](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L03_perceptron/L03_perceptron_slides.pdf) |
+  [Notes](https://drive.google.com/drive/u/2/folders/1FpT_1gwwNf98yG1vruEtAnoRJRHPdRek)
   ]
 
 - **Logitic Regression**<br/>

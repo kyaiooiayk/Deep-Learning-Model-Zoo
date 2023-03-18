@@ -58,7 +58,9 @@ x = tf.placeholder(shape=[None, 2], dtype=tf.float32)
 - **MLP with batch normalisation**<br/>
   [
   [TensorFlow1](https://github.com/rasbt/deeplearning-models/blob/master/tensorflow1_ipynb/mlp/mlp-batchnorm.ipynb) |
-  [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-batchnorm.ipynb)
+  [PyTorch](https://github.com/rasbt/deeplearning-models/blob/master/pytorch_ipynb/mlp/mlp-batchnorm.ipynb) |
+  [Sldies](https://github.com/rasbt/stat479-deep-learning-ss19/blob/master/L11_weight-init/L11_weight-init_slides.pdf) |
+    [Notes](https://drive.google.com/drive/u/2/folders/1FpT_1gwwNf98yG1vruEtAnoRJRHPdRek)
   ]
 
 - **Cycle GAN**
